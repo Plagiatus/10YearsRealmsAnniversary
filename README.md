@@ -49,7 +49,7 @@ If you want to add your mechanics to the map, please follow these steps:
 5. When adding new textures and models, use your namespace as the root folder, don't change anything inside the minecraft folder except for model files to include your custom model data. Include your files in a way that doesn't require an atlas, e.g. `namespace:item/example/my_item` instead of `namespace:example/my_item`.
 6. For the sake of keeping the RP lean: **No custom music**. Short soundsnippets are okay, but make sure to compress them to reasonable sizes. Preferably use built-in sounds.
 7. Keep your texture sizes to powers of 2 as to not mess up the mipmap level. Also keep them to a reasonable size.
-8. No shaders.
+8. No custom made shaders. General shader libraries are open for discussion. 
 
 These are general guidelines. Exceptions may be made on a case by case basis.
 
