@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "plagiatus:item/villager/base",
+	"textures": {
+		"0": "plagiatus:item/villager/stone",
+		"particle": "plagiatus:item/villager/stone"
+	}
+}
