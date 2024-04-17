@@ -1,0 +1,21 @@
+{
+		"parent": "item/generated",
+		"textures": {
+		"layer0": "item/melon_seeds"
+	},
+	
+	"overrides": [
+		{"predicate": {"custom_model_data":1080001}, "model": "scorpionem/head"},
+		{"predicate": {"custom_model_data":1080002}, "model": "scorpionem/body"},
+		{"predicate": {"custom_model_data":1080003}, "model": "scorpionem/left_arm"},
+		{"predicate": {"custom_model_data":1080004}, "model": "scorpionem/right_arm"},
+		{"predicate": {"custom_model_data":1080005}, "model": "scorpionem/right_leg"},
+		{"predicate": {"custom_model_data":1080006}, "model": "scorpionem/left_leg"},
+		{"predicate": {"custom_model_data":1080007}, "model": "theworfer27/head"},
+		{"predicate": {"custom_model_data":1080008}, "model": "theworfer27/body"},
+		{"predicate": {"custom_model_data":1080009}, "model": "theworfer27/left_arm"},
+		{"predicate": {"custom_model_data":1080010}, "model": "theworfer27/right_arm"},
+		{"predicate": {"custom_model_data":1080011}, "model": "theworfer27/right_leg"},
+		{"predicate": {"custom_model_data":1080012}, "model": "theworfer27/left_leg"}
+	]
+}

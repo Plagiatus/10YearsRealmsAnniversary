@@ -1,0 +1,46 @@
+{
+	"credit": "Made with Blockbench",
+	"texture_size": [64, 64],
+	"textures": {
+		"2": "item/scorpionem/texture"
+	},
+	"elements": [
+		{
+			"name": "Left Leg",
+			"from": [6, 0, 6],
+			"to": [10, 12, 10],
+			"faces": {
+				"north": {"uv": [5, 13, 6, 16], "texture": "#2"},
+				"east": {"uv": [4, 13, 5, 16], "texture": "#2"},
+				"south": {"uv": [7, 13, 8, 16], "texture": "#2"},
+				"west": {"uv": [6, 13, 7, 16], "texture": "#2"},
+				"up": {"uv": [6, 13, 5, 12], "texture": "#2"},
+				"down": {"uv": [7, 12, 6, 13], "texture": "#2"}
+			}
+		},
+		{
+			"name": "Left Leg Layer",
+			"from": [5.75, -0.25, 5.75],
+			"to": [10.25, 12.25, 10.25],
+			"faces": {
+				"north": {"uv": [1, 13, 2, 16], "texture": "#2"},
+				"east": {"uv": [0, 13, 1, 16], "texture": "#2"},
+				"south": {"uv": [3, 13, 4, 16], "texture": "#2"},
+				"west": {"uv": [2, 13, 3, 16], "texture": "#2"},
+				"up": {"uv": [2, 13, 1, 12], "texture": "#2"},
+				"down": {"uv": [3, 12, 2, 13], "texture": "#2"}
+			}
+		}
+	],
+	"display": {},
+	"groups": [
+		{
+			"name": "Left Leg",
+			"origin": [-1.9, 12, 0],
+			"rotation": [10, 0, -2],
+			"color": 0,
+			"nbt": "{}",
+			"children": [0, 1]
+		}
+	]
+}
