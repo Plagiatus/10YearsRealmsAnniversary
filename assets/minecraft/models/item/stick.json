@@ -1,0 +1,25 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/stick"
+    },
+    
+    "overrides": [
+        {"predicate": {"custom_model_data":4000001}, "model": "plagiatus:item/villager/stone"},
+        {"predicate": {"custom_model_data":4000002}, "model": "plagiatus:item/villager/bronze"},
+        {"predicate": {"custom_model_data":4000003}, "model": "plagiatus:item/villager/silver"},
+        {"predicate": {"custom_model_data":4000004}, "model": "plagiatus:item/villager/gold"},
+        {"predicate": {"custom_model_data":4000005}, "model": "plagiatus:item/presentation/birthday_game"},
+        {"predicate": {"custom_model_data":4000006}, "model": "plagiatus:item/presentation/control"},
+        {"predicate": {"custom_model_data":4000007}, "model": "plagiatus:item/presentation/corte_madera"},
+        {"predicate": {"custom_model_data":4000008}, "model": "plagiatus:item/presentation/easter_eggcitement"},
+        {"predicate": {"custom_model_data":4000009}, "model": "plagiatus:item/presentation/ludo"},
+        {"predicate": {"custom_model_data":4000010}, "model": "plagiatus:item/presentation/naughty_list"},
+        {"predicate": {"custom_model_data":4000011}, "model": "plagiatus:item/presentation/negentropy"},
+        {"predicate": {"custom_model_data":4000012}, "model": "plagiatus:item/presentation/pumpkin_party_remastered"},
+        {"predicate": {"custom_model_data":4000013}, "model": "plagiatus:item/presentation/pumpkin_party"},
+        {"predicate": {"custom_model_data":4000014}, "model": "plagiatus:item/presentation/slay"},
+        {"predicate": {"custom_model_data":4000015}, "model": "plagiatus:item/presentation/snowbound"},
+        {"predicate": {"custom_model_data":4000016}, "model": "plagiatus:item/presentation/plagiatus"}
+    ]
+}

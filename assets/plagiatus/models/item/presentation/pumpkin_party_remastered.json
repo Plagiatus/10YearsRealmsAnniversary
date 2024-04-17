@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "plagiatus:item/presentation/pumpkin_party_remastered",
+		"1": "plagiatus:item/presentation/frame",
+		"particle": "plagiatus:item/presentation/pumpkin_party_remastered"
+	},
+	"parent": "plagiatus:item/presentation/frame"
+}
