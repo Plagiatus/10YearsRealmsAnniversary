@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "plagiatus:item/presentation/snowbound",
+		"1": "plagiatus:item/presentation/frame",
+		"particle": "plagiatus:item/presentation/snowbound"
+	},
+	"parent": "plagiatus:item/presentation/frame"
+}

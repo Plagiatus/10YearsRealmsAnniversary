@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "plagiatus:item/presentation/corte_madera",
+		"1": "plagiatus:item/presentation/frame",
+		"particle": "plagiatus:item/presentation/corte_madera"
+	},
+	"parent": "plagiatus:item/presentation/frame"
+}

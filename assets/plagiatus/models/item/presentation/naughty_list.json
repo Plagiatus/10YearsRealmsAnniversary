@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "plagiatus:item/presentation/naughty_list",
+		"1": "plagiatus:item/presentation/frame",
+		"particle": "plagiatus:item/presentation/naughty_list"
+	},
+	"parent": "plagiatus:item/presentation/frame"
+}
