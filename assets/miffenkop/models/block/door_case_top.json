@@ -1,6 +1,6 @@
 {
-	"parent": "minecraft:block/cross",
+	"parent": "miffenkop:block/door_case_bottom",
 	"textures": {
-		"wall": "miffenkop:block/door_case_bottom"
+		"wall": "minecraft:block/cyan_concrete"
 	}
 }
