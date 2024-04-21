@@ -1,0 +1,19 @@
+{
+	"credit": "Made by Miffen Kop!",
+	"textures": {
+		"1": "miffenkop:item/props/oak_hole"
+	},
+	"elements": [
+		{
+			"from": [7, 0, 9],
+			"to": [9, 16, 7],
+			"faces": {
+				"north": {"uv": [9, 0, 11, 16], "texture": "#1"},
+				"east": {"uv": [9, 0, 7, 16], "texture": "#1"},
+				"south": {"uv": [9, 0, 11, 16], "texture": "#1"},
+				"west": {"uv": [9, 0, 7, 16], "texture": "#1"},
+				"down": {"uv": [7, 9, 9, 7], "texture": "#1"}
+			}
+		}
+	]
+}

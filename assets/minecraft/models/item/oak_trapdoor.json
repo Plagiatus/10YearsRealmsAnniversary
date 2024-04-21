@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/oak_trapdoor_bottom",
+  "overrides": [
+    {
+			"predicate": {
+				"custom_model_data": 2400001
+			},
+			"model": "miffenkop:block/oak_trapdoor_inside"
+		}
+	]
+}
