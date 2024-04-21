@@ -1,5 +1,5 @@
 {
-  "parent": "minecraft:block/end_rod",
+  "parent": "minecraft:block/white_stained_glass",
   "overrides": [
     {
 			"predicate": {
