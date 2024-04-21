@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:block/cross",
+	"textures": {
+		"wall": "miffenkop:block/door_case_bottom"
+	}
+}
