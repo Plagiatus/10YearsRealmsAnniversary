@@ -1,0 +1,23 @@
+{
+  "parent": "minecraft:block/oak_fence_inventory",
+  "overrides": [
+    {
+			"predicate": {
+				"custom_model_data": 2400001
+			},
+			"model": "miffenkop:block/oak_post"
+		},
+    {
+			"predicate": {
+				"custom_model_data": 2400002
+			},
+			"model": "miffenkop:block/oak_hole"
+		},
+    {
+			"predicate": {
+				"custom_model_data": 2400003
+			},
+			"model": "miffenkop:block/oak_hole2"
+		}
+	]
+}

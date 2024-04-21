@@ -1,0 +1,14 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/poppy"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 2400001
+      },
+      "model": "miffenkop:block/rose"
+    }
+  ]
+}
