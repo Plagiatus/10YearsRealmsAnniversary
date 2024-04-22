@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+        "layer0": "item/chain"
+	},
+	"overrides": [
+		{ "predicate": { "custom_model_data":32001}, "model": "titano:block/eroxen" },
+		{ "predicate": { "custom_model_data":32002}, "model": "titano:block/sallan" },
+		{ "predicate": { "custom_model_data":32003}, "model": "titano:block/tado" },
+		{ "predicate": { "custom_model_data":32004}, "model": "titano:block/logo" },
+		{ "predicate": { "custom_model_data":32005}, "model": "titano:block/suit_1" }
+	]
+}
