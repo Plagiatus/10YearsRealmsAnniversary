@@ -1,0 +1,10 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "block/yellow_concrete",
+		"1": "block/iron_block",
+		"2": "block/black_concrete",
+		"particle": "block/iron_block"
+	},
+	"parent": "plagiatus:item/elytra/gate_left"
+}
