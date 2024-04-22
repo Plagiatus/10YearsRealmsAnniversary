@@ -1,0 +1,49 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "realms:item/realmscape"
+	},
+	"elements": [
+		{
+			"from": [3, 1, 8],
+			"to": [13, 17, 9],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [8, 0, 8]},
+			"faces": {
+				"north": {"uv": [3, 0.5, 5.5, 8.5], "rotation": 180, "texture": "#0"},
+				"east": {"uv": [2.75, 0.5, 3, 8.5], "texture": "#0"},
+				"south": {"uv": [0.25, 0.5, 2.75, 8.5], "texture": "#0"},
+				"west": {"uv": [0, 0.5, 0.25, 8.5], "rotation": 180, "texture": "#0"},
+				"up": {"uv": [0.25, 0, 2.75, 0.5], "rotation": 180, "texture": "#0"},
+				"down": {"uv": [2.75, 0, 5.25, 0.5], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [1, 84, -20],
+			"translation": [2.5, -5.75, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [-35, 93, 23],
+			"translation": [1.75, -6, -1]
+		},
+		"ground": {
+			"rotation": [15, 0, 0],
+			"translation": [0, 9.25, 5.75],
+			"scale": [1, 1, 1]
+		},
+		"gui": {
+			"rotation": [21, 0, 0],
+			"translation": [0, -1.5, 0]
+		},
+		"head": {
+			"rotation": [15, 0, 0],
+			"translation": [0, -20.25, 9.5],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"fixed": {
+			"rotation": [-21, 180, 0],
+			"translation": [0, -1.25, -2.25]
+		}
+	}
+}
