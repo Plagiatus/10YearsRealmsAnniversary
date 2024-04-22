@@ -20,6 +20,8 @@
         {"predicate": {"custom_model_data":4000013}, "model": "plagiatus:item/presentation/pumpkin_party"},
         {"predicate": {"custom_model_data":4000014}, "model": "plagiatus:item/presentation/slay"},
         {"predicate": {"custom_model_data":4000015}, "model": "plagiatus:item/presentation/snowbound"},
-        {"predicate": {"custom_model_data":4000016}, "model": "plagiatus:item/presentation/plagiatus"}
+        {"predicate": {"custom_model_data":4000016}, "model": "plagiatus:item/presentation/plagiatus"},
+        {"predicate": {"custom_model_data":4000017}, "model": "plagiatus:item/elytra/gate_left"},
+        {"predicate": {"custom_model_data":4000018}, "model": "plagiatus:item/elytra/gate_right"}
     ]
 }
