@@ -2,17 +2,10 @@
     "providers": [
         {
             "type":"bitmap",
-            "file":"titano:block/first.png",
+            "file":"titano:block/logo.png",
             "ascent":8,
-            "height":8,
+            "height":128,
             "chars":["a"]
-        },
-        {
-            "type":"bitmap",
-            "file":"titano:block/second.png",
-            "ascent":8,
-            "height":8,
-            "chars":["b"]
         }
     ]
 }
