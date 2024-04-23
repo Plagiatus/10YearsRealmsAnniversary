@@ -1,0 +1,71 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "minecraft:item/pumpkin_seeds"
+	},
+	"overrides": [
+		{
+			"predicate": {
+				"custom_model_data": 1
+			},
+			"model": "item/animated_java_empty"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 2
+			},
+			"model": "miffenkop:wondey_miffen/head"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 3
+			},
+			"model": "miffenkop:wondey_miffen/rightarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 4
+			},
+			"model": "miffenkop:wondey_miffen/leftarm"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 5
+			},
+			"model": "miffenkop:wondey_miffen/body"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 6
+			},
+			"model": "miffenkop:wondey_miffen/rightleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 7
+			},
+			"model": "miffenkop:wondey_miffen/leftleg"
+		},
+		{
+			"predicate": {
+				"custom_model_data": 8
+			},
+			"model": "miffenkop:wondey_miffen/board"
+		}
+	],
+	"animated_java": {
+		"rigs": {
+			"wondey_miffen": {
+				"used_ids": [
+					2,
+					3,
+					4,
+					5,
+					6,
+					7,
+					8
+				]
+			}
+		}
+	}
+}
