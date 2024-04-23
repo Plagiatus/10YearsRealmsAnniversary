@@ -241,6 +241,11 @@
 			}
 		}
 	],
+	"display": {
+		"head": {
+			"scale": [1.8, 1.8, 1.8]
+		}
+	},
 	"groups": [
 		{
 			"name": "Table",
