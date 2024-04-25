@@ -1,0 +1,17 @@
+{
+  "parent": "minecraft:block/basalt",
+  "overrides": [
+    {
+			"predicate": {
+				"custom_model_data": 2400001
+			},
+			"model": "miffenkop:block/door_case_bottom"
+		},
+    {
+			"predicate": {
+				"custom_model_data": 2400002
+			},
+			"model": "miffenkop:block/door_case_top"
+		}
+  ]
+}

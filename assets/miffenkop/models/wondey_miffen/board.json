@@ -1,0 +1,93 @@
+{
+	"textures": {
+		"0": "miffenkop:item/wondey_miffen/wondey"
+	},
+	"elements": [
+		{
+			"from": [
+				-4,
+				2,
+				7
+			],
+			"to": [
+				20,
+				14,
+				9
+			],
+			"rotation": {
+				"angle": 0,
+				"axis": "y",
+				"origin": [
+					8,
+					-12,
+					8
+				]
+			},
+			"faces": {
+				"north": {
+					"uv": [
+						0.5,
+						8.5,
+						6.5,
+						11.5
+					],
+					"texture": "#0"
+				},
+				"east": {
+					"uv": [
+						0,
+						8.5,
+						0.5,
+						11.5
+					],
+					"texture": "#0"
+				},
+				"south": {
+					"uv": [
+						7,
+						8.5,
+						13,
+						11.5
+					],
+					"texture": "#0"
+				},
+				"west": {
+					"uv": [
+						6.5,
+						8.5,
+						7,
+						11.5
+					],
+					"texture": "#0"
+				},
+				"up": {
+					"uv": [
+						6.5,
+						8.5,
+						0.5,
+						8
+					],
+					"texture": "#0"
+				},
+				"down": {
+					"uv": [
+						12.5,
+						8,
+						6.5,
+						8.5
+					],
+					"texture": "#0"
+				}
+			}
+		}
+	],
+	"display": {
+		"head": {
+			"rotation": [
+				0,
+				180,
+				0
+			]
+		}
+	}
+}

@@ -1,0 +1,6 @@
+{
+	"parent": "miffenkop:block/door_case_bottom",
+	"textures": {
+		"wall": "minecraft:block/cyan_concrete"
+	}
+}
