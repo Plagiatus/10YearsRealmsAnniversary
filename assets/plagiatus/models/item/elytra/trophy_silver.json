@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "plagiatus:item/villager/silver",
+		"1": "block/oak_planks",
+		"particle": "plagiatus:item/villager/silver"
+	},
+	"parent": "plagiatus:item/elytra/trophy_bronze"
+}
