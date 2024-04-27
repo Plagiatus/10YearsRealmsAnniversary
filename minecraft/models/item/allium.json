@@ -1,0 +1,28 @@
+{
+  "parent": "item/generated",
+  "textures": {
+    "layer0": "block/allium"
+},
+  "overrides": [
+    {
+      "predicate": { "custom_model_data": 1 },
+      "model": "fingermaps:item/flytrap"
+    },
+    {
+      "predicate": { "custom_model_data": 2 },
+      "model": "fingermaps:item/weed"
+    },	
+    {
+      "predicate": { "custom_model_data": 3 },
+      "model": "fingermaps:item/bee"
+    },
+    {
+      "predicate": { "custom_model_data": 4 },
+      "model": "fingermaps:item/bread"
+    },
+	{
+      "predicate": { "custom_model_data": 5 },
+      "model": "fingermaps:item/trophy"
+    }
+  ]
+}
