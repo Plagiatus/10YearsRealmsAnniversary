@@ -9,6 +9,34 @@
         "custom_model_data": 9150001
       },
       "model": "thunderie:item/pcd"
-    }
-  ]
+    },
+    {
+      "predicate": 
+{
+"custom_model_data":9150002
+      },
+      "model": "thunderie:item/mars_rover"
+  },
+  {
+      "predicate": 
+{
+"custom_model_data":9150003
+      },
+      "model": "thunderie:item/mars_arm"
+  },
+  {
+      "predicate": 
+{
+"custom_model_data":9150004
+      },
+      "model": "thunderie:item/spirit_oppy"
+  },
+  {
+      "predicate": 
+{
+"custom_model_data":9150005
+      },
+      "model": "thunderie:item/solar_array"
+  }
+]
 }
