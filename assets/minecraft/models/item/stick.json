@@ -22,6 +22,9 @@
         {"predicate": {"custom_model_data":4000015}, "model": "plagiatus:item/presentation/snowbound"},
         {"predicate": {"custom_model_data":4000016}, "model": "plagiatus:item/presentation/plagiatus"},
         {"predicate": {"custom_model_data":4000017}, "model": "plagiatus:item/elytra/gate_left"},
-        {"predicate": {"custom_model_data":4000018}, "model": "plagiatus:item/elytra/gate_right"}
+        {"predicate": {"custom_model_data":4000018}, "model": "plagiatus:item/elytra/gate_right"},
+        {"predicate": {"custom_model_data":4000019}, "model": "plagiatus:item/elytra/trophy_bronze"},
+        {"predicate": {"custom_model_data":4000020}, "model": "plagiatus:item/elytra/trophy_silver"},
+        {"predicate": {"custom_model_data":4000021}, "model": "plagiatus:item/elytra/trophy_gold"}
     ]
 }

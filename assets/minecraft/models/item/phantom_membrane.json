@@ -4,7 +4,8 @@
       "layer0": "minecraft:item/phantom_membrane"
     },
     "overrides": [
-      {"predicate": {"custom_model_data": 4002000},"model": "quillmark:item/boat"}
+      {"predicate": {"custom_model_data": 4002000},"model": "quillmark:item/boat"},
+      {"predicate": {"custom_model_data": 4002001},"model": "quillmark:item/fade"}     
     ]
   }
   
