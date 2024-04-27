@@ -2,7 +2,7 @@
 	"credit": "Made with Blockbench",
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "billyskin"
+		"0": "checkmc:item/billyskin"
 	},
 	"elements": [
 		{
@@ -24,14 +24,13 @@
 			"from": [-4.5, 23, -9.5],
 			"to": [4.5, 32, -0.5],
 			"rotation": {"angle": -45, "axis": "x", "origin": [0, 28, 0]},
-			"color": 0,
 			"faces": {
-				"north": {"uv": [10, 2, 12, 4], "texture": "#missing"},
-				"east": {"uv": [8, 2, 10, 4], "texture": "#missing"},
-				"south": {"uv": [14, 2, 16, 4], "texture": "#missing"},
-				"west": {"uv": [12, 2, 14, 4], "texture": "#missing"},
-				"up": {"uv": [12, 2, 10, 0], "texture": "#missing"},
-				"down": {"uv": [14, 0, 12, 2], "texture": "#missing"}
+				"north": {"uv": [10, 2, 12, 4], "texture": "#0"},
+				"east": {"uv": [8, 2, 10, 4], "texture": "#0"},
+				"south": {"uv": [14, 2, 16, 4], "texture": "#0"},
+				"west": {"uv": [12, 2, 14, 4], "texture": "#0"},
+				"up": {"uv": [12, 2, 10, 0], "texture": "#0"},
+				"down": {"uv": [14, 0, 12, 2], "texture": "#0"}
 			}
 		},
 		{
@@ -50,17 +49,16 @@
 		},
 		{
 			"name": "Body Layer",
-			"from": [-4.25, 10.75, -2.25],
-			"to": [4.25, 23.25, 2.25],
-			"rotation": {"angle": 0, "axis": "x", "origin": [0, -1, 0]},
-			"color": 0,
+			"from": [-4.25, 8.75, 6.75],
+			"to": [4.25, 21.25, 11.25],
+			"rotation": {"angle": -22.5, "axis": "x", "origin": [0, -1, 0]},
 			"faces": {
-				"north": {"uv": [5, 9, 7, 12], "texture": "#missing"},
-				"east": {"uv": [4, 9, 5, 12], "texture": "#missing"},
-				"south": {"uv": [8, 9, 10, 12], "texture": "#missing"},
-				"west": {"uv": [7, 9, 8, 12], "texture": "#missing"},
-				"up": {"uv": [7, 9, 5, 8], "texture": "#missing"},
-				"down": {"uv": [9, 8, 7, 9], "texture": "#missing"}
+				"north": {"uv": [5, 9, 7, 12], "texture": "#0"},
+				"east": {"uv": [4, 9, 5, 12], "texture": "#0"},
+				"south": {"uv": [8, 9, 10, 12], "texture": "#0"},
+				"west": {"uv": [7, 9, 8, 12], "texture": "#0"},
+				"up": {"uv": [7, 9, 5, 8], "texture": "#0"},
+				"down": {"uv": [9, 8, 7, 9], "texture": "#0"}
 			}
 		},
 		{
