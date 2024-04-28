@@ -1,11 +1,6 @@
 {
   "parent": "minecraft:block/glass",
   "overrides": [
-    {
-			"predicate": {
-				"custom_model_data": 2400001
-			},
-			"model": "miffenkop:block/window"
-		}
+    {"predicate": {"custom_model_data": 2400001},"model": "miffenkop:block/window"}
   ]
 }
