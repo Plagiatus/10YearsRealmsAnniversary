@@ -11,6 +11,7 @@
 		{ "predicate": { "custom_model_data":32005}, "model": "titano:block/suit_1" },
 		{ "predicate": { "custom_model_data":32006}, "model": "titano:block/portal1" },
 		{ "predicate": { "custom_model_data":32007}, "model": "titano:block/portal2" },
-		{ "predicate": { "custom_model_data":32008}, "model": "titano:block/trophy" }
+		{ "predicate": { "custom_model_data":32008}, "model": "titano:block/trophy" },
+		{ "predicate": { "custom_model_data":32009}, "model": "titano:block/pulluxx" }
 	]
 }
