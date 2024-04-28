@@ -1,0 +1,24 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "minecraft:item/stone_shovel"
+  },
+    
+    "overrides": [
+        {"predicate": {"custom_model_data":6500001}, "model": "checkmc:item/entirebilly"},
+	{"predicate": {"custom_model_data":6500002}, "model": "checkmc:item/entirepillager"},
+	{"predicate": {"custom_model_data":6500003}, "model": "checkmc:item/calverin"},
+	{"predicate": {"custom_model_data":6500004}, "model": "checkmc:item/connop"},
+	{"predicate": {"custom_model_data":6500005}, "model": "checkmc:item/checkmc"},
+	{"predicate": {"custom_model_data":6500006}, "model": "checkmc:item/falconreign"},
+	{"predicate": {"custom_model_data":6500007}, "model": "checkmc:item/billy2"},
+	{"predicate": {"custom_model_data":6500008}, "model": "checkmc:item/chip"},
+	{"predicate": {"custom_model_data":6500009}, "model": "checkmc:item/pug"},
+	{"predicate": {"custom_model_data":6500010}, "model": "checkmc:item/quackleb"},
+	{"predicate": {"custom_model_data":6500011}, "model": "checkmc:item/caedes"},
+	{"predicate": {"custom_model_data":6500012}, "model": "checkmc:item/pinkessi"},
+	{"predicate": {"custom_model_data":6500013}, "model": "checkmc:item/miffen"}
+
+    ]
+
+}
