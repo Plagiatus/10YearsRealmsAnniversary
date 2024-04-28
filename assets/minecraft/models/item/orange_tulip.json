@@ -1,0 +1,32 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:block/orange_tulip"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "eroxen:item/eroxen"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "eroxen:item/lights_out_trophy"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "eroxen:item/mcpaint_studio"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "eroxen:item/desert_cattleya"
+    }
+  ]
+}
