@@ -1,0 +1,11 @@
+{
+    "providers": [
+        {
+            "type":"bitmap",
+            "file":"fingermaps:block/title.png",
+            "ascent":128,
+            "height":128,
+            "chars":["f"]
+        }
+    ]
+}
