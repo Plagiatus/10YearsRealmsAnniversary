@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"1": "plagiatus:item/villager/gold",
+		"2": "block/gray_concrete",
+		"particle": "block/white_concrete_powder"
+	},
+	"parent": "plagiatus:item/trophy/maze_trophy_bronze"
+}

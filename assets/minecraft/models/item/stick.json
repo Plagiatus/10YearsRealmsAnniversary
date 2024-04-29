@@ -28,6 +28,15 @@
         {"predicate": {"custom_model_data":4000018}, "model": "plagiatus:item/elytra/gate_right"},
         {"predicate": {"custom_model_data":4000019}, "model": "plagiatus:item/elytra/trophy_bronze"},
         {"predicate": {"custom_model_data":4000020}, "model": "plagiatus:item/elytra/trophy_silver"},
-        {"predicate": {"custom_model_data":4000021}, "model": "plagiatus:item/elytra/trophy_gold"}
+        {"predicate": {"custom_model_data":4000021}, "model": "plagiatus:item/elytra/trophy_gold"},
+        {"predicate": {"custom_model_data":4000022}, "model": "plagiatus:item/trophy/bronze_sheep_trophy"},
+        {"predicate": {"custom_model_data":4000023}, "model": "plagiatus:item/trophy/maze_trophy_bronze"},
+        {"predicate": {"custom_model_data":4000024}, "model": "plagiatus:item/trophy/maze_trophy_silver"},
+        {"predicate": {"custom_model_data":4000025}, "model": "plagiatus:item/trophy/maze_trophy_gold"},
+        {"predicate": {"custom_model_data":4000026}, "model": "plagiatus:item/trophy/te_trophy_bronze"},
+        {"predicate": {"custom_model_data":4000027}, "model": "plagiatus:item/trophy/te_trophy_silver"},
+        {"predicate": {"custom_model_data":4000028}, "model": "plagiatus:item/trophy/te_trophy_gold"},
+        {"predicate": {"custom_model_data":4000099}, "model": "plagiatus:item/trophy/trophy_unknown"},
+        {"predicate": {"custom_model_data":4000100}, "model": "plagiatus:item/elytra/elytra_model"}
     ]
 }

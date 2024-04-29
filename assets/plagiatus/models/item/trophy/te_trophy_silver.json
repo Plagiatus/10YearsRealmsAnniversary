@@ -1,0 +1,8 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"4": "plagiatus:item/trophy/toxic/throphy_silver",
+		"particle": "plagiatus:item/trophy/toxic/throphy_none"
+	},
+	"parent":"plagiatus:item/trophy/te_trophy_bronze"
+}
