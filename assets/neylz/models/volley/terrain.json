@@ -1,0 +1,20 @@
+{
+	"credit": "Made by Neylz with BlockBench",
+	"texture_size": [32, 32],
+	"textures": {
+		"0": "neylz:item/volley/terrain/ground",
+		"particle": "neylz:item/volley/terrain/ground"
+	},
+	"elements": [
+		{
+			"from": [-1.5, 8.001, 2.25],
+			"to": [17.5, 8.001, 13.75],
+			"rotation": {"angle": 0, "axis": "y", "origin": [8, 8.001, 8]},
+			"faces": {
+				"north": {"uv": [0, 0, 9.5, 0], "texture": "#0"},
+				"up": {"uv": [9.5, 5.75, 0, 0], "texture": "#0"}
+			}
+		}
+	],
+	"display": {}
+}
