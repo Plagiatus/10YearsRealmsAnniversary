@@ -107,8 +107,8 @@
 	"display": {
 		"gui": {
 			"rotation": [11, 157, 0],
-			"translation": [0, 1.75, 0],
-			"scale": [1.18, 1.18, 1.18]
+			"translation": [0, 5.5, 0],
+			"scale": [1.5, 1.5, 1.5]
 		},
 		"fixed": {
 			"rotation": [-90, 0, 0],

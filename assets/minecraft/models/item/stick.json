@@ -36,6 +36,11 @@
         {"predicate": {"custom_model_data":4000026}, "model": "plagiatus:item/trophy/te_trophy_bronze"},
         {"predicate": {"custom_model_data":4000027}, "model": "plagiatus:item/trophy/te_trophy_silver"},
         {"predicate": {"custom_model_data":4000028}, "model": "plagiatus:item/trophy/te_trophy_gold"},
+        {"predicate": {"custom_model_data":4000029}, "model": "plagiatus:item/trophy/celeb_trophy"},
+        {"predicate": {"custom_model_data":4000030}, "model": "plagiatus:item/trophy/zeronia_trophy_bronze"},
+        {"predicate": {"custom_model_data":4000031}, "model": "plagiatus:item/trophy/zeronia_trophy_silver"},
+        {"predicate": {"custom_model_data":4000032}, "model": "plagiatus:item/trophy/zeronia_trophy_gold"},
+        {"predicate": {"custom_model_data":4000033}, "model": "plagiatus:item/trophy/trophy_trophy"},
         {"predicate": {"custom_model_data":4000099}, "model": "plagiatus:item/trophy/trophy_unknown"},
         {"predicate": {"custom_model_data":4000100}, "model": "plagiatus:item/elytra/elytra_model"}
     ]

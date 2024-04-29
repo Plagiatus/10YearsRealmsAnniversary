@@ -1,0 +1,9 @@
+{
+	"credit": "Made with Blockbench",
+	"textures": {
+		"0": "plagiatus:item/villager/gold",
+		"1": "block/repeating_command_block_back",
+		"particle": "plagiatus:item/villager/gold"
+	},
+	"parent": "plagiatus:item/trophy/zeronia_trophy_bronze"
+}
